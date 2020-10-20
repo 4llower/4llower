@@ -2,7 +2,7 @@
 
 * ### SE Student in **Belarusian State University of Informatics and Radioelectronics**
 * ### Advanced knowledge of Typescript and Frontend tools
-* ### Winner of different olympiads in Competitive Programing (National, Baltic and Belarus and etc.)
+* ### Winner of different olympiads in Competitive Programing (National, Baltic and etc.)
 * ### My area of interestes are: **Algorithms, Data structures, Typescript, React, Vue**
 
 # Competitive Coding Profile #
