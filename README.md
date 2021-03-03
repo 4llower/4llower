@@ -6,7 +6,7 @@
 * ### My area of interestes are: **Algorithms, Data structures, Typescript, React, Angular, C++**
 <br />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4llower&langs_count=7&theme=dark">
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=4lower&count_private=true&show_icons=true&theme=dark&hide_title=true">
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=4llower&count_private=true&show_icons=true&theme=dark&hide_title=true">
 <br />
 
 ## Competitive Programming Profiles
