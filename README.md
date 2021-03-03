@@ -5,8 +5,8 @@
 * ### Winner of different olympiads in Competitive Programing (National, Baltic and etc.)
 * ### My area of interestes are: **Algorithms, Data structures, Typescript, React, Angular, C++**
 <br />
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=4llower&count_private=true&theme=dark">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4llower&count_private=true&theme=dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=4llower&count_private=true&theme=dark">
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4llower&count_private=true&theme=dark">
 <br />
 
 # Competitive Programming Profiles #
