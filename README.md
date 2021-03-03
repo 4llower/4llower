@@ -5,15 +5,15 @@
 * ### Winner of different olympiads in Competitive Programing (National, Baltic and etc.)
 * ### My area of interestes are: **Algorithms, Data structures, Typescript, React, Angular, C++**
 
+# Stats #
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4llower&langs_count=8&theme=dark">
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=4llower&count_private=true&show_icons=true&theme=dark">
+
 # Competitive Coding Profile #
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/4llower/)
 [![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/fllower)
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/4llower)		
-
-# Stats #
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4llower&langs_count=8&theme=dark">
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=4llower&count_private=true&show_icons=true&theme=dark">
 
 
 # Social Media #
