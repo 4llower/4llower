@@ -8,7 +8,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4llower&langs_count=8&theme=dark">
 <img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=4llower&count_private=true&show_icons=true&theme=dark">
 
-# Competitive Coding Profile #
+# Competitive Programming Profiles #
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/4llower/)
 [![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/fllower)
