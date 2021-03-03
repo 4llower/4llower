@@ -9,13 +9,13 @@
 <img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=4lower&count_private=true&show_icons=true&theme=dark&hide_title=true">
 <br />
 
-# Competitive Programming Profiles
+## Competitive Programming Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/4llower/)
 [![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/fllower)
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/4llower)		
 
 
-# Social Media
+## Social Media
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/4llower)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ihar-makeyenka/)
